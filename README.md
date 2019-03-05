@@ -23,16 +23,20 @@ Condition 3: There must be two operands.
 
 Use Case: 
 
-a) 15 + 13
-Output: 28
+15 / 3 and 10 - 5
+4 * 3
+apple / 23 and 23 / x
+-346.8 / 74
+-232 ^ 884 and -33 & 222
+1234
 
-b)15 b 12
-Output: INVALID OPERATOR
+Output:
+5 and 5
+12
+INVALID OPERRAND
+INVALID OPERRAND
+INVALID OPERATOR
+INVALID INSTRUCTION
 
-c)b)15.12 b 12
-Output: INVALID OPERAND
-        INVALID OPERATOR
 
-d)15
-Output: INVALID INSTRUCTION
 
